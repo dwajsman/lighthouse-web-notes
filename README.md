@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Daniel Wajsman for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Daniel Wajsman](https://github.com/dwajsman) for the [Lighthouse Labs](http://www.lighthouselabs.ca) Web Development Bootcamp.
 
 
 
@@ -12,3 +12,4 @@ This repository contains all of the notes taken by Daniel Wajsman for the Lighth
 
 Hello
 
+[Link Text](http://www.cnn.com)
