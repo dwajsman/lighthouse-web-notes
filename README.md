@@ -6,10 +6,3 @@ This repository contains all of the notes taken by [Daniel Wajsman](https://gith
 
 
 
-
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
-
-Hello
-
-[Link Text](http://www.cnn.com)
